@@ -1,4 +1,16 @@
-# WLKR Labs foundation
+# WLKR.SI foundation
+
+The studio's historical planning packet, operating records and original WLKR Labs brand assets.
+
+[Current studio](https://wlkr.si) · [Projects](https://wlkr.si/work) · [Current brand](https://wlkr.si/brand) · [Contribution guide](https://github.com/wlkr-si/.github/blob/main/CONTRIBUTING.md) · [Studio standards](https://github.com/wlkr-si/.github/blob/main/docs/STANDARDS.md)
+
+**Current context — November 11, 2026:** WLKR Labs became **WLKR.SI** (Walker Super Intelligence). The canonical website is **https://wlkr.si**, and its source is maintained separately in `wlkr-si/website`. Use the current website's brand suite for new work. This repository preserves the earlier plans, assets and dated receipts; they are historical evidence, not a statement of today's account, hosting, funding or legal status. Existing project licenses and attribution remain unchanged.
+
+The GitHub organisation is [wlkr-si](https://github.com/wlkr-si). The active studio work is tracked in the website repository. Product code stays in each project's repository; this packet does not contain the products themselves.
+
+---
+
+# Historical foundation packet — October 2026
 
 > Excellent free software, practical education, and biblical purpose.
 
